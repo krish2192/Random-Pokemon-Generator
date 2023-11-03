@@ -32,8 +32,7 @@ The following STRETCH features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/Oocxwo5.mp4' title='Video Demo' width='' alt='Video Demo' />
-![Untitled video - Made with Clipchamp (2)](https://github.com/krish2192/Random-Pokemon-Generator-v2/assets/73328108/6c3fdb19-82aa-4968-abdf-7fd671785e84)
+<img src='https://github.com/krish2192/Random-Pokemon-Generator-v2' title='Video Demo' width='' alt='Video Demo' />
 
 ## License
 
