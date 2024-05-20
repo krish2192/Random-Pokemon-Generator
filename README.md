@@ -1,6 +1,6 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 7 - CYOAPI Part 3: Beautified
+# Random Pokemon Generator
 
 Submitted by: Krishnanshu Sharma
 
@@ -8,7 +8,7 @@ Time spent: 2 hours spent in total
 
 ## Summary
 
-Multiple Random Pokemon Generator v2 is an android app that uses the Pokemon API to randomly generate a list of multiple pokemons in a RecyclerView. This version is a little reorganised and has some more stylistic elements.
+Random Pokemon Generator is an android app that uses the Pokemon API to randomly generate a list of multiple pokemons in a RecyclerView. Upon clicking the 'Get' button a pokemon with their name, type and experience level are retrieved from the API and displayed on the app. This is a revised version and this one is a little reorganised and has some more stylistic elements.
 
 If I had to describe this project in three (3) emojis, they would be: 🧠😍👾
 
@@ -23,9 +23,6 @@ The following REQUIRED features are completed:
 - [x] Use a downloadable font with custom color and size
 - [x] Modify the theme of the app in `themes.xml`
 - [x] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
-
-The following STRETCH features are implemented:
-
 - [x] Update the night theme to use different versions of styles when in dark mode
 
 ## Video Demo
